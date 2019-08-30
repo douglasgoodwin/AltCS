@@ -9,7 +9,8 @@
 ## The Modules
 
 * [SEQUENCE: Draw with Lines](the-modules/untitled.md)
-* [SELECTION: Find the Best Route](the-modules/untitled-1.md)
+* [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
+  * [Dijkstra’s algorithm](the-modules/untitled-1/dijkstras-algorithm.md)
 * [RECURSION: Natural Patterns](the-modules/recursion-natural-patterns.md)
 * [ITERATION: So Random](the-modules/iteration-so-random.md)
 * [FUNCTIONS: Draw Curves](the-modules/functions-draw-curves.md)
