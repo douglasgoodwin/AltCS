@@ -1,7 +1,13 @@
 # Readings
 
-You will have readings for each module's analog lab. 
+You will have readings for each module's analog lab. These readings include:
 
+1. AK Dewdney, **The \(New\) Turing Omnibus,** CH33
+2. Recursion and natural patterns \(Ball?\)
+3. The history and spectrum of Randomness
+4. Articles on Catenary structures and Gaudi
+5. A chapter on images, both digital and analog \(Cubitt?\)
+6. 
 The primary text for the coding labs is **Think Python: How to Think Like a Computer Scientist**, 2nd Edition, by [Allen Downey](http://www.oreilly.com/pub/au/4828). You may buy a [copy of this text from O'Reilly](http://shop.oreilly.com/product/0636920045267.do) or use the [free version on Downey's site](https://greenteapress.com/wp/think-python-2e/). 
 
 ### About Think Python
