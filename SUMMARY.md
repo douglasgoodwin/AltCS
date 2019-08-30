@@ -8,7 +8,8 @@
 
 ## The Modules
 
-* [SEQUENCE: Draw with Lines](the-modules/untitled.md)
+* [SEQUENCE: Draw with Lines](the-modules/untitled/README.md)
+  * [Drawing with Algorithms](the-modules/untitled/drawing-with-algorithms.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
   * [Dijkstra’s algorithm](the-modules/untitled-1/dijkstras-algorithm.md)
 * [RECURSION: Natural Patterns](the-modules/recursion-natural-patterns.md)
