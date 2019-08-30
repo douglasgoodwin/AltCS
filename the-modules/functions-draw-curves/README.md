@@ -14,5 +14,5 @@ How to use a functions to calculate the vertical coordinate of a catenary curve 
 
 Use **functions** in Python to draw catenary arches and estimate the thickness required to support the structures. Introduce sliders to change the dimensions of your towers. 
 
-![](../.gitbook/assets/casa-batllo.jpg)
+![](../../.gitbook/assets/casa-batllo.jpg)
 
