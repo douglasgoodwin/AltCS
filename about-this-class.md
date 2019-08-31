@@ -1,4 +1,4 @@
-# About this class
+# In a nutshell
 
 ### This class in a nutshell: MODULE: You are a superhero!
 

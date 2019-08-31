@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [About this class](about-this-class.md)
+* [In a nutshell](about-this-class.md)
 * [Readings](readings.md)
 * [Activities, Assessment, Points](activities-assessment-points.md)
 * [Using the Code](using-the-code.md)
