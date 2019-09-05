@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [In a nutshell](about-this-class.md)
 * [Readings](readings.md)
 * [Activities, Assessment, Points](activities-assessment-points.md)
 * [Using the Code](using-the-code.md)
@@ -9,6 +8,7 @@
 
 ## The Modules
 
+* [INTRODUCTION](the-modules/introduction.md)
 * [SEQUENCE: Draw with Lines](the-modules/untitled/README.md)
   * [Drawing with Algorithms](the-modules/untitled/drawing-with-algorithms.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
