@@ -1,8 +1,8 @@
-# INTRODUCTION
+# Lab: You are a Superhero
 
 
 
-### This class in a nutshell: MODULE: You are a superhero!
+### MODULE: You are a superhero!
 
 Becoming a super hero is a fairly straight forward process. You can do it this way:
 
@@ -10,7 +10,7 @@ Becoming a super hero is a fairly straight forward process. You can do it this w
 ANALOG LAB: Use a pen to write "I am a superhero!" on a sticky note. 
 {% endhint %}
 
-![](../.gitbook/assets/img_9590.jpg) 
+![](../../.gitbook/assets/img_9590.jpg) 
 
 {% hint style="info" %}
 INSTRUCTION: How will you identify an algorithm to reproduce the work you did in the Analog Lab?

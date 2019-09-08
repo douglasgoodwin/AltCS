@@ -8,7 +8,9 @@
 
 ## The Modules
 
-* [INTRODUCTION](the-modules/introduction.md)
+* [INTRODUCTION](the-modules/introduction/README.md)
+  * [Code Dictée](the-modules/introduction/code-dictee.md)
+  * [Lab: You are a Superhero](the-modules/introduction/lab-you-are-a-superhero.md)
 * [SEQUENCE: Draw with Lines](the-modules/untitled/README.md)
   * [Drawing with Algorithms](the-modules/untitled/drawing-with-algorithms.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
