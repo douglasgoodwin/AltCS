@@ -13,6 +13,9 @@
   * [Lab: You are a Superhero](the-modules/introduction/lab-you-are-a-superhero.md)
 * [SEQUENCE: Draw with Lines](the-modules/untitled/README.md)
   * [Drawing with Algorithms](the-modules/untitled/drawing-with-algorithms.md)
+  * [Encode a drawing](the-modules/untitled/encode-a-drawing.md)
+  * [TP Exercise 1](the-modules/untitled/1.md)
+  * [TP Exercise 2](the-modules/untitled/exercise-2.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
   * [Dijkstra’s algorithm](the-modules/untitled-1/dijkstras-algorithm.md)
 * [RECURSION: Natural Patterns](the-modules/recursion-natural-patterns/README.md)
@@ -32,8 +35,6 @@
 ## Exercises
 
 * [Setup](exercises/setup.md)
-* [Exercise 1](exercises/1.md)
-* [Exercise 2](exercises/exercise-2.md)
 * [Exercise 3](exercises/exercise-3.md)
 * [Exercise 4](exercises/exercise-4.md)
 * [Exercise 5](exercises/exercise-5.md)
