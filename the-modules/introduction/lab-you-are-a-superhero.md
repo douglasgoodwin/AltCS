@@ -2,7 +2,9 @@
 
 
 
-### MODULE: You are a superhero!
+### EXAMPLE LAB EXERCISE: You are a superhero!
+
+{% file src="../../.gitbook/assets/superhero-2.zip" caption="Processing.py sketch" %}
 
 Becoming a super hero is a fairly straight forward process. You can do it this way:
 
