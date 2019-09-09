@@ -4,7 +4,7 @@
 * [Readings](readings.md)
 * [Activities, Assessment, Points](activities-assessment-points.md)
 * [Using the Code](using-the-code.md)
-* [Assignments](assignments.md)
+* [Assignments](assignments-1.md)
 
 ## The Modules
 
