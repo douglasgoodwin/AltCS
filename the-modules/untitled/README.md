@@ -8,7 +8,13 @@ S**equence matters!** Programs specify the order of execution, and this ordering
 
 ## Instruction
 
-**Turtle graphics.** 
+Drawing things with Python can be hard because you need to go outside the core language to draw anything. Here are a few popular choices.
+
+1. **Python Turtle graphics** depends on \[Tk\]\([https://en.wikipedia.org/wiki/Tk\_\(software](https://en.wikipedia.org/wiki/Tk_%28software)\)\) 
+
+2. We use [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) for data science. It's not the prettiest solution, but it does provide a convenient interface for data-capable libraries like Pandas, SciPy, and Numpy. [Colab](https://colab.research.google.com/drive/1vwvudlTCzGcNj6iz_mUZso1ZEUN0U4oI) supports Matplotlib.
+
+3. [Processing.py](https://py.processing.org/) expects you to render code in a special environment. It's worthwhile because you are given the strongest drawing tools imaginable in exchange for this inconvenience.
 
 ## Code Lab
 
