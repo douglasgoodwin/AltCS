@@ -18,6 +18,7 @@
   * [TP Exercise 2](the-modules/untitled/exercise-2.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
   * [ANALOG LAB: Find the Shortest Distance between 2 Points](the-modules/untitled-1/analog-lab-find-the-shortest-distance-between-2-points.md)
+  * [CODE LAB: Shortest Path](the-modules/untitled-1/code-lab-shortest-path.md)
   * [Dijkstra’s algorithm](the-modules/untitled-1/dijkstras-algorithm.md)
 * [RECURSION: Natural Patterns](the-modules/recursion-natural-patterns/README.md)
   * [Phyllotaxis](the-modules/recursion-natural-patterns/phyllotaxis.md)
