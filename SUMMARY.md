@@ -17,6 +17,7 @@
   * [TP Exercise 1](the-modules/untitled/1.md)
   * [TP Exercise 2](the-modules/untitled/exercise-2.md)
 * [SELECTION: Find the Best Route](the-modules/untitled-1/README.md)
+  * [ANALOG LAB: Find the Shortest Distance between 2 Points](the-modules/untitled-1/analog-lab-find-the-shortest-distance-between-2-points.md)
   * [Dijkstra’s algorithm](the-modules/untitled-1/dijkstras-algorithm.md)
 * [RECURSION: Natural Patterns](the-modules/recursion-natural-patterns/README.md)
   * [Phyllotaxis](the-modules/recursion-natural-patterns/phyllotaxis.md)
@@ -26,6 +27,7 @@
   * [Catenary Curves](the-modules/functions-draw-curves/catenary-curves.md)
 * [DATA STRUCTURES: Images](the-modules/data-structures-images.md)
 * [APPLICATION: Sound](the-modules/application-adding-with-switches.md)
+* [Sidebar \| Turtles and plotters](the-modules/sidebar-or-turtles-and-plotters.md)
 
 ## Academic Policies
 
